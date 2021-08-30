@@ -1,0 +1,2 @@
+Fonts are collected from: adi1090x
+github: https://github.com/adi1090x/termux-style
